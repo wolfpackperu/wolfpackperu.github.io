@@ -1,25 +1,25 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wolfpackperu.github.io" resolutions="1x" timestamp="1536023863776">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wolfpackperu.github.io" resolutions="1x" timestamp="1551386588225">
   <folder name="css">
-    <file name="site_global.css" crc="68549508"/>
-    <file name="index.css" crc="3997781820" ref="index"/>
-    <file name="nomq_index.css" crc="488662508" ref="index"/>
+    <file name="site_global.css" crc="450064303"/>
+    <file name="index.css" crc="258647593" ref="index"/>
+    <file name="nomq_index.css" crc="3810508500" ref="index"/>
   </folder>
   <folder name="fonts">
+    <file name="pf bague sans pro thin.woff" crc="242899617"/>
+    <file name="pf bague sans pro thin.eot" crc="468560456"/>
+    <file name="pf bague sans pro thin.svg" crc="4122895354"/>
     <file name="pf bague sans pro.woff" crc="3770293047"/>
     <file name="pf bague sans pro.eot" crc="462402246"/>
     <file name="pf bague sans pro.svg" crc="379474642"/>
     <file name="pf bague sans pro bold.woff" crc="459071141"/>
     <file name="pf bague sans pro bold.eot" crc="408218028"/>
     <file name="pf bague sans pro bold.svg" crc="3927896836"/>
-    <file name="pf bague sans pro thin.woff" crc="242899617"/>
-    <file name="pf bague sans pro thin.eot" crc="468560456"/>
-    <file name="pf bague sans pro thin.svg" crc="4122895354"/>
-    <file name="pf bague sans pro ultra black.woff" crc="84813548"/>
-    <file name="pf bague sans pro ultra black.eot" crc="4957925"/>
-    <file name="pf bague sans pro ultra black.svg" crc="53938182"/>
     <file name="pf bague sans pro light.woff" crc="3840275720"/>
     <file name="pf bague sans pro light.eot" crc="506577772"/>
     <file name="pf bague sans pro light.svg" crc="407922713"/>
+    <file name="pf bague sans pro ultra black.woff" crc="84813548"/>
+    <file name="pf bague sans pro ultra black.eot" crc="4957925"/>
+    <file name="pf bague sans pro ultra black.svg" crc="53938182"/>
     <file name="alpaca scarlett1.woff" crc="320328747"/>
     <file name="alpaca scarlett1.eot" crc="4005115137"/>
     <file name="alpaca scarlett1.svg" crc="3992884544"/>
@@ -46,13 +46,13 @@
       <file name="CamAni.html" crc="313262904" mt="1515593720000"/>
     </folder>
     <file name="wpvideo.mp4" crc="387787299" seo="true" mt="1517503890000"/>
-    <file name="wpios.png" crc="420819058" seo="true" mt="1535478874000"/>
+    <file name="wpios.png" crc="191457563" seo="true" mt="1536026242000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
     <file name="museutils.js" crc="340535759" ref="phone>index:tablet>index:index"/>
     <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
-    <file name="museconfig.js" crc="310584261" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:tablet>index:index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:tablet>index:index"/>
     <file name="webpro.js" crc="4059564322" ref="phone>index:tablet>index:index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:tablet>index:index"/>
@@ -689,17 +689,17 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="18858805" ref="tablet>index"/>
-      <file name="nomq_index.css" crc="3862779481" ref="tablet>index"/>
+      <file name="index.css" crc="249134007" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="4236508769" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="269337498" seo="true" mt="1536023773274" redirect="true"/>
+    <file name="index.html" crc="452163841" seo="true" mt="1551386338847" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="240879719" ref="phone>index"/>
+      <file name="index.css" crc="4238791976" ref="phone>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="10391710" seo="true" mt="1536021198165" redirect="true"/>
+    <file name="index.html" crc="305435525" seo="true" mt="1551386417848" redirect="true"/>
   </folder>
-  <file name="index.html" crc="233975146" seo="true" mt="1536021198153" redirect="true"/>
+  <file name="index.html" crc="298651462" seo="true" mt="1551386458346" redirect="true"/>
 </manifest>

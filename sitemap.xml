@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://wolfpackperu.github.io/index.html</loc>
-    <lastmod>2018-09-03</lastmod>
+    <lastmod>2019-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://wolfpackperu.github.io/phone/index.html"/>
@@ -97,7 +97,7 @@
   </url>
   <url>
     <loc>http://wolfpackperu.github.io/assets/wpios.png</loc>
-    <lastmod>2018-08-28</lastmod>
+    <lastmod>2018-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
