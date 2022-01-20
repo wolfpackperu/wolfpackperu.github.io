@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wolfpackstudiosperu.github.io" resolutions="1x" timestamp="1642636037773">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wolfpackstudiosperu.github.io" resolutions="1x" timestamp="1642646837155">
   <folder name="css">
-    <file name="site_global.css" crc="68549508"/>
-    <file name="index.css" crc="58759767" ref="index"/>
+    <file name="site_global.css" crc="450064303"/>
+    <file name="index.css" crc="272122678" ref="index"/>
     <file name="nomq_index.css" crc="3879941939" ref="index"/>
   </folder>
   <folder name="assets">
@@ -30,10 +30,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="508880855" ref="phone>index"/>
+      <file name="index.css" crc="4268837738" ref="phone>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3972591243" seo="true" mt="1642636013959" redirect="true"/>
+    <file name="index.html" crc="145384604" seo="true" mt="1642646805767" redirect="true"/>
   </folder>
-  <file name="index.html" crc="323801960" seo="true" mt="1642630306746" redirect="true"/>
+  <file name="index.html" crc="372418679" seo="true" mt="1642630306746" redirect="true"/>
 </manifest>
