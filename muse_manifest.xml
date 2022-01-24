@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wolfpackstudiosperu.github.io" resolutions="1x" timestamp="1643044037302">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wolfpackstudiosperu.github.io" resolutions="1x" timestamp="1643054904052">
   <folder name="css">
     <file name="site_global.css" crc="68549508"/>
-    <file name="index.css" crc="4273329590" ref="index"/>
+    <file name="index.css" crc="3855414863" ref="index"/>
     <file name="nomq_index.css" crc="452946791" ref="index"/>
   </folder>
   <folder name="assets">
@@ -19,13 +19,13 @@
   </folder>
   <folder name="images">
     <file name="inicio-favicon.ico" crc="108283347" ref="phone>index"/>
-    <file name="wolfpackdarklogoclean.svg" crc="270591848" seo="true" ref="phone>index:index">
+    <file name="wolfpackdarklogoclean.svg" crc="4227256908" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wolfpackdarklogoclean_poster_.png" crc="3802173485" ref="phone>index"/>
+    <file name="wolfpackdarklogoclean_poster_.png" crc="93471339" ref="phone>index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
   <folder name="phone">
@@ -33,7 +33,7 @@
       <file name="index.css" crc="224444142" ref="phone>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="255490462" seo="true" mt="1643043960192" redirect="true"/>
+    <file name="index.html" crc="296003106" seo="true" mt="1643054856715" redirect="true"/>
   </folder>
-  <file name="index.html" crc="139922711" seo="true" mt="1643043904731" redirect="true"/>
+  <file name="index.html" crc="3920193617" seo="true" mt="1643054857155" redirect="true"/>
 </manifest>
